@@ -1,0 +1,11 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.log
+
+# Настройки редакторов
+.vscode/
+*.sublime-project
