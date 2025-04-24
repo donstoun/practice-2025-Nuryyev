@@ -1,0 +1,57 @@
+baseURL = 'http://localhost:1313'
+defaultContentLanguage = "ru"
+title = 'Sparq'
+
+# Google Analytics 4 - Just add your G-XXXXXXXXXX ID here
+googleAnalytics = "" # e.g. "G-MEASUREMENT_ID"
+
+# SEO Parameters
+[params]
+  description = "Breaking news and in-depth analysis on current events, politics, and social issues"
+  keywords = ["news", "current events", "politics", "social issues", "analysis"]
+  author = "News Team"
+  
+  # Social Media
+  twitter = "newshandle"
+  facebook = "newspage"
+  
+  # Schema.org
+  [params.schema]
+    type = "NewsMediaOrganization"
+    name = "My Hugo news site"
+    url = "https://example.org"
+    sameAs = ["https://twitter.com/newshandle", "https://facebook.com/newspage"]
+
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menus.main]]
+name = "Главная"
+url = "/"
+weight = 10
+
+[[menus.main]]
+name = "О проекте"
+url = "/about"
+weight = 20
+
+[[menus.main]]
+name = "Команда"
+url = "/team"
+weight = 30
+
+[[menus.main]]
+name = "Журнал"
+url = "/journal"
+weight = 40
+
+[[menus.main]]
+name = "Ресурсы"
+url = "/resources"
+weight = 50

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Безопасная Связь on Sparq</title>
+    <link>http://localhost:1313/tags/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/</link>
+    <description>Recent content in Безопасная Связь on Sparq</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 23 Apr 2025 16:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Прямое действие останавливает угрозы безопасности: Sparq выбирает путь защищённой коммуникации</title>
+      <link>http://localhost:1313/articles/first-article/</link>
+      <pubDate>Wed, 23 Apr 2025 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/articles/first-article/</guid>
+      <description>В эпоху цифровых угроз Sparq выбирает принципиальный путь: создать корпоративный мессенджер, в котором безопасность и приватность — основа всей архитектуры. Мы не просто разрабатываем продукт — мы формируем новое понимание защищённой коммуникации.&#xA;Кризис доверия в цифровом мире Современные корпоративные мессенджеры нередко ставят под угрозу конфиденциальность:&#xA;Перехват сообщений возможен при слабом шифровании Метаданные используются в коммерческих целях Безопасность жертвуется ради &amp;ldquo;удобства&amp;rdquo; Пользовательские данные становятся объектом внешнего интереса Голоса специалистов «Мы не просто создаём мессенджер — мы создаём инфраструктуру, где защита данных не обсуждается», — отмечает технический директор Sparq.</description>
+    </item>
+  </channel>
+</rss>
