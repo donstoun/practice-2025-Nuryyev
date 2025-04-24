@@ -1,0 +1,184 @@
+&lt;?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>http://localhost:1313/articles/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/first-article/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    <image:image>
+      <image:loc>http://localhost:1313/head.png</image:loc>
+    </image:image>
+    
+    
+    <news:news>
+      <news:publication>
+        <news:name>Sparq</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-23T16:00:00-05:00</news:publication_date>
+      <news:title>Прямое действие останавливает угрозы безопасности: Sparq выбирает путь защищённой коммуникации</news:title>
+    </news:news>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%D1%88%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+    
+    <lastmod>2025-04-23T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/articles/second-article/</loc>
+    
+    <lastmod>2025-04-22T16:00:00-05:00</lastmod>
+    
+    
+    <image:image>
+      <image:loc>http://localhost:1313/secure.jpg</image:loc>
+    </image:image>
+    
+    
+    <news:news>
+      <news:publication>
+        <news:name>Sparq</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2025-04-22T16:00:00-05:00</news:publication_date>
+      <news:title>Безопасность под угрозой: Почему корпоративные данные нуждаются в защите уже сегодня</news:title>
+    </news:news>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    
+    <lastmod>2025-04-22T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    
+    <lastmod>2025-04-22T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/</loc>
+    
+    <lastmod>2025-04-22T16:00:00-05:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    
+    <lastmod>2023-01-01T08:00:00-07:00</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/search/</loc>
+    
+    
+    
+    <news:news>
+      <news:publication>
+        <news:name>Sparq</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>0001-01-01T00:00:00&#43;00:00</news:publication_date>
+      <news:title>Search</news:title>
+    </news:news>
+    
+  </url>
+  
+</urlset> 
