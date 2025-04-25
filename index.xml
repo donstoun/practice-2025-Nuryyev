@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Sparq</title>
+    <link>https://donstoun.github.io/practice-2025-Nuryyev/</link>
+    <description>Recent content in Home on Sparq</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 23 Apr 2025 16:00:00 -0500</lastBuildDate>
+    <atom:link href="https://donstoun.github.io/practice-2025-Nuryyev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Прямое действие останавливает угрозы безопасности: Sparq выбирает путь защищённой коммуникации</title>
+      <link>https://donstoun.github.io/practice-2025-Nuryyev/articles/first-article/</link>
+      <pubDate>Wed, 23 Apr 2025 16:00:00 -0500</pubDate>
+      <guid>https://donstoun.github.io/practice-2025-Nuryyev/articles/first-article/</guid>
+      <description>В эпоху цифровых угроз Sparq выбирает принципиальный путь: создать корпоративный мессенджер, в котором безопасность и приватность — основа всей архитектуры. Мы не просто разрабатываем продукт — мы формируем новое понимание защищённой коммуникации.&#xA;Кризис доверия в цифровом мире Современные корпоративные мессенджеры нередко ставят под угрозу конфиденциальность:&#xA;Перехват сообщений возможен при слабом шифровании Метаданные используются в коммерческих целях Безопасность жертвуется ради &amp;ldquo;удобства&amp;rdquo; Пользовательские данные становятся объектом внешнего интереса Голоса специалистов «Мы не просто создаём мессенджер — мы создаём инфраструктуру, где защита данных не обсуждается», — отмечает технический директор Sparq.</description>
+    </item>
+    <item>
+      <title>Безопасность под угрозой: Почему корпоративные данные нуждаются в защите уже сегодня</title>
+      <link>https://donstoun.github.io/practice-2025-Nuryyev/articles/second-article/</link>
+      <pubDate>Tue, 22 Apr 2025 16:00:00 -0500</pubDate>
+      <guid>https://donstoun.github.io/practice-2025-Nuryyev/articles/second-article/</guid>
+      <description>В современном цифровом мире каждая компания сталкивается с угрозой утечки данных. Отсутствие надёжных инструментов для корпоративной коммуникации ставит под удар конфиденциальность бизнеса и его сотрудников. Sparq создан, чтобы изменить правила игры и вернуть контроль над данными в руки компаний.&#xA;Цифровые угрозы: что скрывается за привычными мессенджерами? Многие привычные корпоративные сервисы не обеспечивают должного уровня безопасности:&#xA;Сообщения хранятся на внешних серверах и могут быть скомпрометированы Метаданные используются для анализа и монетизации пользовательской активности Отсутствие шифрования создаёт уязвимости для утечек информации Централизованные системы доступа оставляют риски для злоумышленников Sparq: связь, которой можно доверять Мы строим платформу, где конфиденциальность не под вопросом:</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://donstoun.github.io/practice-2025-Nuryyev/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://donstoun.github.io/practice-2025-Nuryyev/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
