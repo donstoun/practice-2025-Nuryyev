@@ -4,7 +4,7 @@
 
 Современная, адаптивная тема для Hugo, разработанная для корпоративных сайтов и презентационных платформ. Построена с использованием Tailwind CSS и Alpine.js.
 
-Проекта на Hugo, размещённого на GitHub Pages ([https://donstoun.github.io/practice-2025-Nuryyev/](https://donstoun.github.io/practice-2025-Nuryyev/)).
+Проект на Hugo, размещённого на GitHub Pages ([https://donstoun.github.io/practice-2025-Nuryyev/](https://donstoun.github.io/practice-2025-Nuryyev/)).
 
   
 
